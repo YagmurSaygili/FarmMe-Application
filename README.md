@@ -1,5 +1,5 @@
 # FarmMe-Application
-An advanced Java project to handle farm managament, operations.
+An advanced Java project to handle farm management, operations.
 
 Backend of the system  handles the operations in a Farm. Where  Veterinaries, Cows, Treatment and Medication exists.
 
